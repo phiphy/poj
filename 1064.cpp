@@ -25,6 +25,6 @@ int main()
         else
             lv = midv + 1;
     }
-    printf("%.2f\n", rv / 100.0);
+    printf("%.2f\n", rv / 100.0);   // first I use %.2lf, but WA, so use %.2f
     return 0;
 }

@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+# exe & test in
+*.exe
+*.in
+*.out
+*.bat
